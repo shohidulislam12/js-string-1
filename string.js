@@ -1,0 +1,10 @@
+const country = "bangladesh";
+const district = `sherpur`;
+const divition = 'mymonshing ';
+const thana = 'nalitabri';
+console.log( typeof thana);
+// const numbers =[23,45,654,87,87];
+// console.log(numbers);
+// console.log(numbers[0]);
+// console.log(  thana.length);
+console.log(thana[3]);

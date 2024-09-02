@@ -1,0 +1,10 @@
+const address= "andarkillah";
+const part =address.slice(2,5);
+console.log(part);
+const sentence= "im a student of jashore university of science technology";
+console.log(sentence.split(" "));
+console.log(sentence.split("a"));
+const studentss= "rahim ,karim ,fahim ,jamim";
+console.log(studentss.split(","));
+const studentes=[ 'rahim ','karim' ,'fahim' ,'jamim'];
+console.log(studentes.join("+"));
